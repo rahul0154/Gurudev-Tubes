@@ -227,7 +227,7 @@ li.share {
     text-align: center;
 }
 .logo_agile span {
-    background: var(--main-color);
+    background: #860800;
     padding: 0 17px;
     font-weight: bold;
     color: #fff;
@@ -944,7 +944,7 @@ color: var(--main-gradient-color);
 }
 .footer-left h2 a span {
     padding: 0 10px;
-    background: var(--main-gradient-color);
+    background: #860800;
     font-weight: 600;
 }
 /*-- //footer --*/
@@ -5609,7 +5609,7 @@ p.w3ls_para {
 }
 #contact_us_div{
     padding: 30px 0px;
-    background: var(--main-gradient-color);
+    background: linear-gradient(to left, white, #cf372d);
 }
 .colour-blk{
     color: black;

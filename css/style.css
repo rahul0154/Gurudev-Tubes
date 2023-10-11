@@ -227,7 +227,7 @@ li.share {
     text-align: center;
 }
 .logo_agile span {
-    background: #860800;
+    background: black;
     padding: 0 17px;
     font-weight: bold;
     color: #fff;
@@ -944,7 +944,7 @@ color: var(--main-gradient-color);
 }
 .footer-left h2 a span {
     padding: 0 10px;
-    background: #860800;
+    background: black;
     font-weight: 600;
 }
 /*-- //footer --*/
